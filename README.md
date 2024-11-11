@@ -1,4 +1,4 @@
-👋 Hi, I’m @NexauraTech
+👋 Hi, We @NexauraTech
 👀 We specialize in developing cutting-edge mobile and web applications.
 🌱 Currently, we’re expanding our expertise in both frontend and backend development.
 💼 Experienced full-stack developers, we've collaborated with multiple companies and delivered successful freelance projects.
